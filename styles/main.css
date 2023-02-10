@@ -1,0 +1,78 @@
+
+/*https://coolors.co/895f03-f9a700-ee811e-e73c32-1f509f-5f7fb6*/
+h1
+{
+color: rgb(171, 15, 0);
+font-family: sans-serif;
+border-bottom: 3px solid rgb(31, 80, 159);
+display: inline-block;
+padding: 0.5em 2em;
+width: 40vw;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+blockquote
+{
+	background-color:rgb(125, 159, 216);
+	padding: 1rem;
+	color: rgb(0, 0, 0);
+}
+
+.center
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 50%; */
+}
+
+#bodyImage
+{
+	float: left;
+	padding: 1em;
+	size: 40em;
+}
+h2
+{
+	clear: both;
+	display: block;
+}
+
+p
+{
+	display: block;
+	line-height: 3em;
+	height: 18em;
+	overflow: auto;
+}
+body
+{
+   margin: auto;
+   width: 90%;
+   font-size: 14pt;
+   background-color: rgb(231, 60, 50);
+}
+
+h2
+{
+    display:block;
+	padding: 0.75em;
+	font-size: xx-large;
+	background-color: rgb(238, 129, 30);
+}
+
+b{
+	color: rgb(231, 60, 50);
+	font-size: larger;
+}
+	
+
+#outerdiv{
+	background-color: #ffffff;
+}
+#top {
+    background-color: #ffffff;
+    padding: 20px
+}
